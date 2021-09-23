@@ -1,6 +1,6 @@
 ## Issam Ismail
 
-You can use the [editor on GitHub](https://github.com/issamismail/issamismail.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Microbiology Ph.D student at the University of Texas A&M. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
